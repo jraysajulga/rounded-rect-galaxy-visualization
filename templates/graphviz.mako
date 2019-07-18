@@ -1,7 +1,10 @@
-<!DOCTYPE html>
+<html>
 <meta charset="utf-8">
+<head>
+	<script src="https://d3js.org/d3.v3.min.js"></script>
+</head>
 <body>
-<script src="https://d3js.org/d3.v3.min.js"></script>
+</body>
 <script>
 
 var mouse = [480, 250],
@@ -45,3 +48,4 @@ d3.timer(function() {
 });
 
 </script>
+</html>
